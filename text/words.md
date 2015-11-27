@@ -1,0 +1,3 @@
+cortex
+axon
+synapse
